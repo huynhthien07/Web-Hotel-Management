@@ -15,32 +15,32 @@ import java.sql.Timestamp;
 import java.util.HashSet;
 import java.util.Set;
 
-@Getter
-@Setter
-public class UserDto {
-
-    private Long id;
-
-    private String username;
-
-    private String email;
-
-    private String fullname;
-
-    private String password;
-
-    private String phone;
-
-    private Boolean actived;
-
-    private Date createdDate;
-
-    private String avatar;
-
-    private int gender;
-
-    private String address;
-
-    private Authority authorities;
-}
+//@Getter
+//@Setter
+//public class UserDto {
+//
+//    private Long id;
+//
+//    private String username;
+//
+//    private String email;
+//
+//    private String fullname;
+//
+//    private String password;
+//
+//    private String phone;
+//
+//    private Boolean actived;
+//
+//    private Date createdDate;
+//
+//    private String avatar;
+//
+//    private int gender;
+//
+//    private String address;
+//
+//    private Authority authorities;
+//}
 
