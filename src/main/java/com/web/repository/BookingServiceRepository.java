@@ -10,13 +10,13 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-public interface BookingServiceRepository extends JpaRepository<BookingService,Long> {
-
-    @Modifying
-    @Transactional
-    @Query(value = "delete ru from booking_service ru where ru.room_id = ?1", nativeQuery = true)
-    int deleteByBooking(Long bookingId);
-
-    @Query("select b from BookingService b where b.booking.id = ?1")
-    public List<BookingService> findByBooking(Long bookingId);
-}
+//public interface BookingServiceRepository extends JpaRepository<BookingService,Long> {
+//
+//    @Modifying
+//    @Transactional
+//    @Query(value = "delete ru from booking_service ru where ru.room_id = ?1", nativeQuery = true)
+//    int deleteByBooking(Long bookingId);
+//
+//    @Query("select b from BookingService b where b.booking.id = ?1")
+//    public List<BookingService> findByBooking(Long bookingId);
+//}
