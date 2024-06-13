@@ -7,8 +7,8 @@ import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 
-//public interface ServicesRepository extends JpaRepository<Services,Long> {
-//
-//    @Query("select s from Services s where s.category.id = ?1")
-//    public List<Services> findByCategory(Long id);
-//}
+public interface ServicesRepository extends JpaRepository<Services,Long> {
+
+    @Query("select s from Services s where s.category.id = ?1")
+    public List<Services> findByCategory(Long id);
+}
