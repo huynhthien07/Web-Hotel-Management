@@ -12463,7 +12463,6 @@ label {
     cursor: pointer;
     color: #f59042;
 }
-
 .singlecolor {
     border: 1px solid #e0e0e0;
     padding: 10px;
@@ -12631,3 +12630,170 @@ label {
     padding-left: 10px;
     padding-top: 5px;
 }
+/* .singlecolor {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px !important;
+}
+
+.btnaddsize {
+    display: block;
+    margin-top: 7px !important;
+}
+
+.singelsizeblock {
+    display: block;
+    padding-top: 10px !important;
+}
+
+.sizename {
+    width: 40%;
+    float: left;
+}
+
+.sizequantity {
+    width: 50%;
+    float: left;
+}
+
+.trashsize {
+    width: 8%;
+    float: left;
+    cursor: pointer;
+    font-size: 100% !important;
+    margin-left: 2%;
+}
+
+#myBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 30%;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #a1a1a1;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 0 5px gray;
+    box-shadow: 0 0 5px gray;
+}
+
+#myBtn:hover {
+    background-color: #555;
+}
+
+.fa-arrow-alt-circle-up {
+    font-size: 22px;
+}
+
+.tagcauhoi {
+    text-decoration: none;
+    font-size: 0.8rem;
+    background-color: #e1ecf4;
+    padding: 3px 5px 3px 5px;
+    border-radius: 3px;
+    margin-top: 5px;
+    display: block;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.dmchinh {
+    font-size: 0.7rem;
+    color: #00a60b;
+    font-weight: bold;
+}
+
+.actived {
+    color: green;
+    font-weight: bold;
+}
+
+.locked {
+    color: red;
+    font-weight: bold;
+}
+
+.chuathanhtoan {
+    color: red;
+    font-weight: bold;
+}
+
+.dathanhtoan {
+    color: green;
+    font-weight: bold;
+}
+
+.pointer-event {
+    cursor: pointer;
+}
+
+.headerdetail {
+    font-size: 0.9rem !important;
+}
+
+.headerdetail .yls {
+    font-size: 0.9rem !important;
+}
+
+.shipinfor {
+    margin-top: 30px;
+}
+
+.tennguoinhan {
+    font-weight: bold;
+}
+
+.blockinfor {
+    min-height: 120px;
+    padding: 13px 25px 10px 20px;
+    border: 1px solid #DDE1EF;
+    background: none;
+    margin-top: 10px;
+}
+
+.blockinfor span {
+    color: #212B25;
+    font-size: 14px;
+    line-height: 16px;
+    vertical-align: top;
+    text-align: left;
+}
+
+.ttshipinfor {
+    margin-top: 10px;
+}
+
+.imgdetailacc {
+    width: 100px;
+}
+
+.slmobile {
+    display: none;
+}
+
+.phoneacc {
+    display: block;
+    margin-top: 7px;
+}
+
+.contentdetailproduct {
+    padding-top: 30px;
+}
+
+.imgdetailpro {
+    width: 100%;
+}
+.iconnameti{
+    color: green;
+    font-size: 25px;
+}
+.sb-sidenav-arrow{
+    padding-left: 10px;
+    padding-top: 5px;
+} */
